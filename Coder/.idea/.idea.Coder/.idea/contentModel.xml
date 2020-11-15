@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Владислав\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Владислав\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Coder.29579382.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Владислав\Documents\TestNew\HomeWork\Coder" t="IncludeFlat">
+      <e p="Coder" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Coder.csproj" t="IncludeRecursive" />
+        <e p="morse-decrypt-code.json" t="Include" />
+        <e p="morse-encrypt-code.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Coder.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
