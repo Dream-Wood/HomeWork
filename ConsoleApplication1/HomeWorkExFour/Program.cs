@@ -1,4 +1,10 @@
-﻿using System;
+﻿
+/*
+Ссылка на GitHub репозиторий
+https://github.com/Dream-Wood/HomeWork/tree/main/ConsoleApplication1
+*/
+
+using System;
 using System.Collections.Generic;
 using System.Runtime.InteropServices;
 
@@ -245,6 +251,16 @@ namespace ConsoleApplication1
             {
                 Console.Write(preResult[i]);
             }
+
+            HotPotatoes();
+        }
+        
+        
+        public static void HotPotatoes()
+        {
+            int numberMyPhone = 0;
+            numberMyPhone = result[0];
+            Console.WriteLine($"Ответ: {numberMyPhone}");
         }
     }
 }
